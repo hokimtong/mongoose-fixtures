@@ -1,5 +1,5 @@
 {
-  "name": "pow-mongoose-fixtures",
+  "name": "mongoose-fixtures",
   "description": "Fixture loading for Mongoose on NodeJS",
   "maintainers": [
     {
